@@ -1,0 +1,50 @@
+16:35:56.194 [TestNG-tests-2] INFO  testCases.TC_001_userInfo - ***getting user name***
+16:36:01.153 [TestNG-tests-1] INFO  testCases.TC_001_userInfo - ***getting user mail***
+16:36:02.283 [TestNG-tests-2] INFO  testCases.TC_001_userInfo - ***getting user mail***
+16:36:04.275 [TestNG-tests-1] INFO  testCases.TC_001_userInfo - ***validating user mail and username***
+16:36:05.444 [TestNG-tests-2] INFO  testCases.TC_001_userInfo - ***validating user mail and username***
+16:36:09.386 [TestNG-tests-1] INFO  testCases.TC_001_userInfo - ***Test case 1 is ended***
+16:36:09.729 [TestNG-tests-1] INFO  testCases.TC_001_userInfo - **Test case 2 is started***
+16:36:10.527 [TestNG-tests-1] INFO  testCases.TC_001_userInfo - **validating around cognizant section***
+16:36:10.532 [TestNG-tests-2] INFO  testCases.TC_001_userInfo - ***Test case 1 is ended***
+16:36:10.772 [TestNG-tests-2] INFO  testCases.TC_001_userInfo - **Test case 2 is started***
+16:36:11.561 [TestNG-tests-2] INFO  testCases.TC_001_userInfo - **validating around cognizant section***
+16:36:20.579 [TestNG-tests-1] INFO  testCases.TC_001_userInfo - **printing all the news available in the news around cognizant section***
+16:36:20.897 [TestNG-tests-1] INFO  testCases.TC_001_userInfo - **validating header and tool tip of news around cognizant section***
+16:36:21.596 [TestNG-tests-2] INFO  testCases.TC_001_userInfo - **printing all the news available in the news around cognizant section***
+16:36:21.848 [TestNG-tests-2] INFO  testCases.TC_001_userInfo - **validating header and tool tip of news around cognizant section***
+16:36:25.913 [TestNG-tests-1] INFO  testCases.TC_001_userInfo - **test case 2 ended***
+16:36:26.129 [TestNG-tests-1] INFO  testCases.TC_001_userInfo - *** test case 3 is started
+16:36:26.861 [TestNG-tests-2] INFO  testCases.TC_001_userInfo - **test case 2 ended***
+16:36:27.032 [TestNG-tests-2] INFO  testCases.TC_001_userInfo - *** test case 3 is started
+16:36:32.378 [TestNG-tests-1] INFO  testCases.TC_001_userInfo - ***printing all the news headers from news section***
+16:36:32.607 [TestNG-tests-1] INFO  testCases.TC_001_userInfo - ***validating header of news section and tool tip of the every news***
+16:36:33.278 [TestNG-tests-2] INFO  testCases.TC_001_userInfo - ***printing all the news headers from news section***
+16:36:33.452 [TestNG-tests-2] INFO  testCases.TC_001_userInfo - ***validating header of news section and tool tip of the every news***
+16:36:37.613 [TestNG-tests-1] INFO  testCases.TC_001_userInfo - *** test case 3 is ended
+16:36:37.775 [TestNG-tests-1] INFO  testCases.TC_001_userInfo - ***Test case 4 is started***
+16:36:38.456 [TestNG-tests-2] INFO  testCases.TC_001_userInfo - *** test case 3 is ended
+16:36:38.612 [TestNG-tests-2] INFO  testCases.TC_001_userInfo - ***Test case 4 is started***
+16:36:42.815 [TestNG-tests-1] INFO  testCases.TC_001_userInfo - ***opening a new tab***
+16:36:42.881 [TestNG-tests-1] INFO  testCases.TC_001_userInfo - ***switching to new tab***
+16:36:42.896 [TestNG-tests-1] INFO  testCases.TC_001_userInfo - ***navigating to new URL***
+16:36:43.652 [TestNG-tests-2] INFO  testCases.TC_001_userInfo - ***opening a new tab***
+16:36:43.773 [TestNG-tests-2] INFO  testCases.TC_001_userInfo - ***switching to new tab***
+16:36:43.798 [TestNG-tests-2] INFO  testCases.TC_001_userInfo - ***navigating to new URL***
+16:37:00.999 [TestNG-tests-1] INFO  testCases.TC_001_userInfo - ***Printing the description of the top five news ***
+16:37:02.345 [TestNG-tests-2] INFO  testCases.TC_001_userInfo - ***Printing the description of the top five news ***
+16:37:12.168 [TestNG-tests-1] INFO  testCases.TC_001_userInfo - ***opening a new tab***
+16:37:12.262 [TestNG-tests-1] INFO  testCases.TC_001_userInfo - ***switching to new tab***
+16:37:12.280 [TestNG-tests-1] INFO  testCases.TC_001_userInfo - ***navigating to new URL***
+16:37:13.486 [TestNG-tests-2] INFO  testCases.TC_001_userInfo - ***opening a new tab***
+16:37:13.543 [TestNG-tests-2] INFO  testCases.TC_001_userInfo - ***switching to new tab***
+16:37:13.557 [TestNG-tests-2] INFO  testCases.TC_001_userInfo - ***navigating to new URL***
+16:37:24.204 [TestNG-tests-1] INFO  testCases.TC_001_userInfo - ***Printing the description of the top five news ***
+16:37:25.658 [TestNG-tests-2] INFO  testCases.TC_001_userInfo - ***Printing the description of the top five news ***
+16:37:35.380 [TestNG-tests-1] INFO  testCases.TC_001_userInfo - ***opening a new tab***
+16:37:35.466 [TestNG-tests-1] INFO  testCases.TC_001_userInfo - ***switching to new tab***
+16:37:35.478 [TestNG-tests-1] INFO  testCases.TC_001_userInfo - ***navigating to new URL***
+16:37:36.807 [TestNG-tests-2] INFO  testCases.TC_001_userInfo - ***opening a new tab***
+16:37:36.882 [TestNG-tests-2] INFO  testCases.TC_001_userInfo - ***switching to new tab***
+16:37:36.899 [TestNG-tests-2] INFO  testCases.TC_001_userInfo - ***navigating to new URL***
+16:37:50.609 [TestNG-tests-2] INFO  testCases.TC_001_userInfo - ***Printing the description of the top five news ***
